@@ -1,0 +1,238 @@
+损失值范围0-3
+1:
+E for  6 selected participants:  timecost- 8.79818545770645  acc- 92.9300
+E for  8 selected participants:  timecost- 11.095628124237061  acc- 93.2500
+E for  10 selected participants:  timecost- 13.948561623573303  acc- 93.2900
+E for  12 selected participants:  timecost- 18.376096400260927  acc- 93.3800
+E for  14 selected participants:  timecost- 19.52147043323517  acc- 93.7600
+2：
+E for  6 selected participants in secure selection:  timecost- 9.258396234512329  acc- 93.2300
+E for  8 selected participants in secure selection:  timecost- 12.73837953567505  acc- 92.4600
+E for  10 selected participants in secure selection:  timecost- 15.616094909667968  acc- 93.2900
+E for  12 selected participants in secure selection:  timecost- 18.633655324935912  acc- 91.5100
+E for  14 selected participants in secure selection:  timecost- 21.379403484344483  acc- 93.1200
+E for  6 selected participants in Oort selection:  timecost- 10.214472395896912  acc- 93.7300
+E for  8 selected participants in Oort selection:  timecost- 13.037752249717713  acc- 93.0400
+E for  10 selected participants in Oort selection:  timecost- 16.11272661781311  acc- 92.5800
+E for  12 selected participants in Oort selection:  timecost- 19.603439697265625  acc- 91.1400
+E for  14 selected participants in Oort selection:  timecost- 23.88738149356842  acc- 92.5600
+3:
+E for  6 selected participants in secure selection:  timecost- 9.285718513011933  acc- 92.6800
+E for  8 selected participants in secure selection:  timecost- 12.582513409137725  acc- 92.9600
+E for  10 selected participants in secure selection:  timecost- 15.625837719917298  acc- 93.3600
+E for  12 selected participants in secure selection:  timecost- 18.69673220872879  acc- 93.2300
+E for  14 selected participants in secure selection:  timecost- 21.252536078453065  acc- 92.8800
+E for  6 selected participants in Oort selection:  timecost- 9.306963512897491  acc- 93.3500
+E for  8 selected participants in Oort selection:  timecost- 11.390470588207245  acc- 93.1500
+E for  10 selected participants in Oort selection:  timecost- 15.90557590866089  acc- 93.2300
+E for  12 selected participants in Oort selection:  timecost- 18.109559730529785  acc- 93.6200
+E for  14 selected participants in Oort selection:  timecost- 22.83128093290329  acc- 93.6100
+4:
+E for  6 selected participants in secure selection:  timecost- 6.199007593631745  acc- 93.3200
+E for  8 selected participants in secure selection:  timecost- 8.39220304298401  acc- 93.4000
+E for  10 selected participants in secure selection:  timecost- 10.473479253292084  acc- 92.6900
+E for  12 selected participants in secure selection:  timecost- 14.007740772247315  acc- 93.9700
+E for  14 selected participants in secure selection:  timecost- 16.85469403934479  acc- 93.4400
+E for  6 selected participants in Oort selection:  timecost- 7.115935580730438  acc- 93.5200
+E for  8 selected participants in Oort selection:  timecost- 9.402092044353486  acc- 93.0900
+E for  10 selected participants in Oort selection:  timecost- 11.985093999385834  acc- 93.3300
+E for  12 selected participants in Oort selection:  timecost- 14.718568552970886  acc- 93.9000
+E for  14 selected participants in Oort selection:  timecost- 16.968721618652342  acc- 93.8300
+5：
+E for  6 selected participants in secure selection:  timecost- 6.761166778564453  acc- 92.5100
+E for  8 selected participants in secure selection:  timecost- 9.067581835269928  acc- 92.6000
+E for  10 selected participants in secure selection:  timecost- 11.41288254928589  acc- 92.6600
+E for  12 selected participants in secure selection:  timecost- 13.858486236095429  acc- 93.2400
+E for  14 selected participants in secure selection:  timecost- 16.103820123672484  acc- 93.4200
+E for  6 selected participants in Oort selection:  timecost- 7.011010015487671  acc- 92.8200
+E for  8 selected participants in Oort selection:  timecost- 9.284189090251923  acc- 92.7600
+E for  10 selected participants in Oort selection:  timecost- 11.681195019721985  acc- 92.7300
+E for  12 selected participants in Oort selection:  timecost- 13.445911529541016  acc- 93.2800
+E for  14 selected participants in Oort selection:  timecost- 16.146328575134277  acc- 92.6900
+6：
+E for  6 selected participants in secure selection:  timecost- 6.743637229919433  acc- 92.4000
+E for  8 selected participants in secure selection:  timecost- 9.267027988433838  acc- 92.1300
+E for  10 selected participants in secure selection:  timecost- 11.557530072689056  acc- 92.0600
+E for  12 selected participants in secure selection:  timecost- 13.696230340957642  acc- 91.9100
+E for  14 selected participants in secure selection:  timecost- 15.947856389999389  acc- 92.1500
+E for  6 selected participants in Oort selection:  timecost- 6.994226349353791  acc- 91.8900
+E for  8 selected participants in Oort selection:  timecost- 8.791644955635071  acc- 91.5200
+E for  10 selected participants in Oort selection:  timecost- 11.407679462909698  acc- 92.6700
+E for  12 selected participants in Oort selection:  timecost- 13.825756764888764  acc- 92.1700
+E for  14 selected participants in Oort selection:  timecost- 15.97664205598831  acc- 92.6100
+
+final:
+E for  6 selected participants in secure selection:  timecost- 6.743637229919433  acc- 92.4000
+E for  8 selected participants in secure selection:  timecost- 9.267027988433838  acc- 92.1300
+E for  10 selected participants in secure selection:  timecost- 11.41288254928589  acc- 92.6600
+E for  12 selected participants in secure selection:  timecost- 13.858486236095429  acc- 93.2400
+E for  14 selected participants in secure selection:  timecost- 16.85469403934479  acc- 93.4400
+E for  6 selected participants in Oort selection:  timecost- 6.994226349353791  acc- 91.8900
+E for  8 selected participants in Oort selection:  timecost- 8.791644955635071  acc- 91.5200
+E for  10 selected participants in Oort selection:  timecost- 11.681195019721985  acc- 92.7300
+E for  12 selected participants in Oort selection:  timecost- 13.445911529541016  acc- 93.2800
+E for  14 selected participants in Oort selection:  timecost- 16.968721618652342  acc- 93.8300
+
+in FashionMNIST:
+1:
+E for  6 selected participants in secure selection:  timecost- 6.780239283084869  acc- 79.3300
+E for  8 selected participants in secure selection:  timecost- 9.334021742343902  acc- 80.3600
+E for  10 selected participants in secure selection:  timecost- 11.632094199180603  acc- 78.6900
+E for  12 selected participants in secure selection:  timecost- 13.770653227806092  acc- 75.0100
+E for  14 selected participants in secure selection:  timecost- 16.223182370662688  acc- 78.5900
+E for  6 selected participants in Oort selection:  timecost- 7.053329158306122  acc- 78.2500
+E for  8 selected participants in Oort selection:  timecost- 9.343067459106445  acc- 77.7800
+E for  10 selected participants in Oort selection:  timecost- 11.60546215248108  acc- 77.9000
+E for  12 selected participants in Oort selection:  timecost- 14.062686170101166  acc- 78.6600
+E for  14 selected participants in Oort selection:  timecost- 16.252300359249116  acc- 80.1700
+2：
+E for  6 selected participants in secure selection:  timecost- 6.8244821681976315  acc- 78.8700
+E for  8 selected participants in secure selection:  timecost- 9.250316076755524  acc- 79.9400
+E for  10 selected participants in secure selection:  timecost- 11.782429017543793  acc- 80.3500
+E for  12 selected participants in secure selection:  timecost- 14.168552135944367  acc- 80.4000
+E for  14 selected participants in secure selection:  timecost- 16.45692491388321  acc- 79.4900
+E for  6 selected participants in Oort selection:  timecost- 7.156383085250854  acc- 79.3900
+E for  8 selected participants in Oort selection:  timecost- 9.437496655464173  acc- 80.1100
+E for  10 selected participants in Oort selection:  timecost- 11.729494174957276  acc- 78.8800
+E for  12 selected participants in Oort selection:  timecost- 14.183823489665984  acc- 80.5100
+E for  14 selected participants in Oort selection:  timecost- 16.559105889320374  acc- 78.9000
+3：
+E for  6 selected participants in secure selection:  timecost- 6.800614845752716  acc- 78.3900
+E for  8 selected participants in secure selection:  timecost- 9.23947325515747  acc- 79.6300
+E for  10 selected participants in secure selection:  timecost- 11.587654643535615  acc- 78.3700
+E for  12 selected participants in secure selection:  timecost- 13.865083972930908  acc- 78.4100
+E for  14 selected participants in secure selection:  timecost- 16.25806389427185  acc- 78.5000
+E for  6 selected participants in Oort selection:  timecost- 7.260242380619049  acc- 79.4400
+E for  8 selected participants in Oort selection:  timecost- 9.73189517211914  acc- 78.5200
+E for  10 selected participants in Oort selection:  timecost- 12.291461730003357  acc- 78.8100
+E for  12 selected participants in Oort selection:  timecost- 14.464644226074219  acc- 77.9900
+E for  14 selected participants in Oort selection:  timecost- 16.59988032627106  acc- 79.2900
+4：
+E for  6 selected participants in secure selection:  timecost- 6.753948071956635  acc- 77.9200
+E for  8 selected participants in secure selection:  timecost- 9.18341952753067  acc- 74.4000
+E for  10 selected participants in secure selection:  timecost- 11.461963188171387  acc- 77.8500
+E for  12 selected participants in secure selection:  timecost- 13.673754101276398  acc- 79.3600
+E for  14 selected participants in secure selection:  timecost- 16.194241450786592  acc- 78.0800
+E for  6 selected participants in Oort selection:  timecost- 7.096493695735932  acc- 76.7000
+E for  8 selected participants in Oort selection:  timecost- 9.48992898273468  acc- 81.0000
+E for  10 selected participants in Oort selection:  timecost- 11.796334633350373  acc- 78.7900
+E for  12 selected participants in Oort selection:  timecost- 14.078556697368622  acc- 77.5800
+E for  14 selected participants in Oort selection:  timecost- 16.346511240959167  acc- 74.4500
+
+final:
+E for  6 selected participants in secure selection:  timecost- 6.8244821681976315  acc- 78.8700
+E for  8 selected participants in secure selection:  timecost- 9.250316076755524  acc- 79.9400
+E for  10 selected participants in secure selection:  timecost- 11.782429017543793  acc- 80.3500
+E for  12 selected participants in secure selection:  timecost- 14.168552135944367  acc- 80.4000
+E for  14 selected participants in secure selection:  timecost- 16.45692491388321  acc- 79.4900
+E for  6 selected participants in Oort selection:  timecost- 7.053329158306122  acc- 78.2500
+E for  8 selected participants in Oort selection:  timecost- 9.343067459106445  acc- 78.5200
+E for  10 selected participants in Oort selection:  timecost- 11.60546215248108  acc- 78.7900
+E for  12 selected participants in Oort selection:  timecost- 14.062686170101166  acc- 78.6600
+E for  14 selected participants in Oort selection:  timecost- 16.252300359249116  acc- 80.1700
+
+in CIFAR-10:
+1：
+E for  6 selected participants in secure selection:  timecost- 1.6480009126663209  acc- 38.9100
+E for  8 selected participants in secure selection:  timecost- 2.2366428503990172  acc- 34.0000
+E for  10 selected participants in secure selection:  timecost- 2.817478287220001  acc- 37.5300
+E for  12 selected participants in secure selection:  timecost- 3.407171857833862  acc- 37.0700
+E for  14 selected participants in secure selection:  timecost- 4.029194016456604  acc- 36.1500
+E for  6 selected participants in Oort selection:  timecost- 1.849205138206482  acc- 36.3000
+E for  8 selected participants in Oort selection:  timecost- 2.3621663908958435  acc- 38.7000
+E for  10 selected participants in Oort selection:  timecost- 2.9047985577583315  acc- 37.6300
+E for  12 selected participants in Oort selection:  timecost- 3.50061967086792  acc- 36.9200
+E for  14 selected participants in Oort selection:  timecost- 4.066057084560394  acc- 37.8900
+2：
+E for  6 selected participants in secure selection:  timecost- 1.8495402030944825  acc- 40.3900
+E for  8 selected participants in secure selection:  timecost- 2.38528352355957  acc- 41.9100
+E for  10 selected participants in secure selection:  timecost- 2.9505829734802247  acc- 40.7700
+E for  12 selected participants in secure selection:  timecost- 3.5159364705085756  acc- 40.4500
+E for  14 selected participants in secure selection:  timecost- 4.106324169158936  acc- 40.5800
+E for  6 selected participants in Oort selection:  timecost- 1.8811401209831238  acc- 37.7900
+E for  8 selected participants in Oort selection:  timecost- 2.3994702758789064  acc- 34.9700
+E for  10 selected participants in Oort selection:  timecost- 2.9468861169815064  acc- 38.5400
+E for  12 selected participants in Oort selection:  timecost- 3.5481418285369872  acc- 39.4000
+E for  14 selected participants in Oort selection:  timecost- 4.129256890773773  acc- 39.7500
+3：
+E for  6 selected participants in secure selection:  timecost- 1.868205439567566  acc- 38.6100
+E for  8 selected participants in secure selection:  timecost- 2.4210549817085267  acc- 39.9800
+E for  10 selected participants in secure selection:  timecost- 2.967105813026428  acc- 36.2600
+E for  12 selected participants in secure selection:  timecost- 3.5563356704711913  acc- 38.2200
+E for  14 selected participants in secure selection:  timecost- 4.163394002914429  acc- 37.0900
+E for  6 selected participants in Oort selection:  timecost- 1.8303818430900574  acc- 37.1200
+E for  8 selected participants in Oort selection:  timecost- 2.386566866874695  acc- 38.1000
+E for  10 selected participants in Oort selection:  timecost- 2.998257267475128  acc- 37.4800
+E for  12 selected participants in Oort selection:  timecost- 3.5058354053497314  acc- 34.4100
+E for  14 selected participants in Oort selection:  timecost- 4.118981315135956  acc- 38.9100
+4：
+E for  6 selected participants in secure selection:  timecost- 1.8870272450447083  acc- 34.0200
+E for  8 selected participants in secure selection:  timecost- 2.3889491896629336  acc- 39.2100
+E for  10 selected participants in secure selection:  timecost- 3.004774917602539  acc- 39.1300
+E for  12 selected participants in secure selection:  timecost- 3.535887375354767  acc- 39.7100
+E for  14 selected participants in secure selection:  timecost- 4.127478216648102  acc- 39.4000
+E for  6 selected participants in Oort selection:  timecost- 1.838491913318634  acc- 37.3700
+E for  8 selected participants in Oort selection:  timecost- 2.3743562836647034  acc- 37.7500
+E for  10 selected participants in Oort selection:  timecost- 2.9928078699111937  acc- 37.8800
+E for  12 selected participants in Oort selection:  timecost- 3.497758460998535  acc- 39.1900
+E for  14 selected participants in Oort selection:  timecost- 4.0981012649536135  acc- 33.0600
+5：
+E for  6 selected participants in secure selection:  timecost- 1.8683003821372985  acc- 38.9300
+E for  8 selected participants in secure selection:  timecost- 2.382531857967377  acc- 38.2300
+E for  10 selected participants in secure selection:  timecost- 2.995826014995575  acc- 34.9700
+E for  12 selected participants in secure selection:  timecost- 3.5410405168533323  acc- 30.6200
+E for  14 selected participants in secure selection:  timecost- 4.140781604766846  acc- 37.7200
+E for  6 selected participants in Oort selection:  timecost- 1.8400935835838317  acc- 37.0300
+E for  8 selected participants in Oort selection:  timecost- 2.387268669605255  acc- 35.8300
+E for  10 selected participants in Oort selection:  timecost- 2.97166761636734  acc- 33.9900
+E for  12 selected participants in Oort selection:  timecost- 3.549906812667847  acc- 39.7100
+E for  14 selected participants in Oort selection:  timecost- 4.1200696740150455  acc- 39.8700
+
+final:
+E for  6 selected participants in secure selection:  timecost- 1.868205439567566  acc- 38.6100
+E for  8 selected participants in secure selection:  timecost- 2.382531857967377  acc- 38.2300
+E for  10 selected participants in secure selection:  timecost- 3.004774917602539  acc- 39.1300
+E for  12 selected participants in secure selection:  timecost- 3.535887375354767  acc- 39.7100
+E for  14 selected participants in secure selection:  timecost- 4.106324169158936  acc- 40.5800
+E for  6 selected participants in Oort selection:  timecost- 1.8811401209831238  acc- 37.7900
+E for  8 selected participants in Oort selection:  timecost- 2.386566866874695  acc- 38.1000
+E for  10 selected participants in Oort selection:  timecost- 2.9468861169815064  acc- 38.5400
+E for  12 selected participants in Oort selection:  timecost- 3.549906812667847  acc- 39.7100
+E for  14 selected participants in Oort selection:  timecost- 4.1200696740150455  acc- 39.8700
+
+750rounds:
+CIFAR-10:
+E for 750 rounds and  6 selected participants in secure selection:  timecost- 1.6638625205357869  acc- 43.7400
+E for 750 rounds and  8 selected participants in secure selection:  timecost- 2.2752418988545737  acc- 43.5100
+E for 750 rounds and  10 selected participants in secure selection:  timecost- 2.894274108250936  acc- 44.3200
+E for 750 rounds and  12 selected participants in secure selection:  timecost- 3.4805996726353965  acc- 44.8000
+E for 750 rounds and  14 selected participants in secure selection:  timecost- 4.7938850355148315  acc- 45.6400
+E for 750 rounds and  6 selected participants in Oort selection:  timecost- 2.9784117024739585  acc- 43.5900
+E for 750 rounds and  8 selected participants in Oort selection:  timecost- 2.8326048396428427  acc- 43.2900
+E for 750 rounds and  10 selected participants in Oort selection:  timecost- 3.2321224069595336  acc- 44.3900
+E for 750 rounds and  12 selected participants in Oort selection:  timecost- 4.5148810882568355  acc- 44.8800
+E for 750 rounds and  14 selected participants in Oort selection:  timecost- 6.185712673187256  acc- 45.0800
+
+FashionMNIST:
+E for  6 selected participants in secure selection:  timecost- 1.670890937169393  acc- 81.0300
+E for  8 selected participants in secure selection:  timecost- 2.2897762676874795  acc- 80.9000
+E for  10 selected participants in secure selection:  timecost- 2.923846426010132  acc- 81.1700
+E for  12 selected participants in secure selection:  timecost- 3.4976979354222615  acc- 81.6700
+E for  14 selected participants in secure selection:  timecost- 4.130653680165609  acc- 81.5300
+E for  6 selected participants in Oort selection:  timecost- 1.9490501670837401  acc- 80.5100
+E for  8 selected participants in Oort selection:  timecost- 2.429092808087667  acc- 81.3500
+E for  10 selected participants in Oort selection:  timecost- 3.0453471247355144  acc- 82.1500
+E for  12 selected participants in Oort selection:  timecost- 3.607057223002116  acc- 82.9600
+E for  14 selected participants in Oort selection:  timecost- 4.16189421526591  acc- 82.7200
+
+MNIST:
+E for  6 selected participants in secure selection:  timecost- 1.6465617634455363  acc- 94.5400
+E for  8 selected participants in secure selection:  timecost- 2.2591264073053994  acc- 95.1200
+E for  10 selected participants in secure selection:  timecost- 2.8827868785858155  acc- 95.4300
+E for  12 selected participants in secure selection:  timecost- 3.442593779246012  acc- 95.7700
+E for  14 selected participants in secure selection:  timecost- 4.066326743125916  acc- 95.6900
+E for  6 selected participants in Oort selection:  timecost- 1.9224888343811035  acc- 94.8800
+E for  8 selected participants in Oort selection:  timecost- 2.3952453629175823  acc- 95.0300
+E for  10 selected participants in Oort selection:  timecost- 2.9968743642171223  acc- 95.8300
+E for  12 selected participants in Oort selection:  timecost- 3.550748606681824  acc- 95.7700
+E for  14 selected participants in Oort selection:  timecost- 4.140257738113403  acc- 95.0500

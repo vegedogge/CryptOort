@@ -1,0 +1,4 @@
+简介：clib文件夹包含实现基于SPDZ的参与者筛选协议算法所需的paillier库，以及在协议中各方生成秘密分享执行安全计算的算法
+文件简介：setup.h中定义了数据的基本类型，client.h定义了协议中的客户，coordinator.h定义了协议中的调度员，SecSelect.cpp模拟了交互过程；特别说明，如client8b.h表示在安全参数为8的情况下的算法
+使用简介：可以编译SecSelect.cpp为可执行文件，命令“g++ -o SecSelect ./libpaillier-0.8/paillier.c SecSelect.cpp -lgmp //编译成可执行文件，会执行main函数，注意需要链接paillier库”，其中的mian函数将通过可执行文件执行
+         也可以编译SecSelect.cpp为动态库，命令“g++ -shared -o SecSelect.so -fPIC SecSelect.cpp ./libpaillier-0.8/paillier.c ./fixed_random.cpp -lgmp //编译成动态链接库”，从而支持python或者其他文件调用其中的函数

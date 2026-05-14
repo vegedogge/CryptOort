@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "random": "cpp",
+        "cmath": "cpp",
+        "numbers": "cpp",
+        "sstream": "cpp"
+    },
+    "cmake.configureOnOpen": false
+}

@@ -1,0 +1,77 @@
+8b:
+time of client's Secret_sharing_C = 157
+time of client's Reshare_value = 0 * n
+time of client's SecureAdd = 0 * n
+time of client's SecureConstMul = 0 * n
+time of client's SingleCheck_C = 1+ * n
+time of client's SecureMul = 2+ * n
+
+time of Coordinator's Getsstag_sat_u = 1- * 1
+time of Coordinator's Reshare_tag = 0
+time of Coordinator's SingleCheck_S = 0
+time of Coordinator's UpdateSys_u = 1
+time of Coordinator's Updatesstag_sta_u_tu = 0
+time of Coordinator's Secret_Share_tag = 1-
+time of Coordinator's Mergesort = 1
+time of Coordinator's Select_Client = 10-
+
+16b:
+time of client's Secret_sharing_C = 169
+time of client's Reshare_value = 0 * n
+time of client's SecureAdd = 0 * n
+time of client's SecureConstMul = 0 * n
+time of client's SingleCheck_C = 1+ * n
+time of client's SecureMul = 2+ * n
+
+time of Coordinator's Getsstag_sat_u = 1- * 1
+time of Coordinator's Reshare_tag = 0
+time of Coordinator's SingleCheck_S = 0
+time of Coordinator's UpdateSys_u = 1
+time of Coordinator's Updatesstag_sta_u_tu = 0
+time of Coordinator's Secret_Share_tag = 1-
+time of Coordinator's Mergesort = 1
+time of Coordinator's Select_Client = 10-
+
+32b:
+time of client's Secret_sharing_C = 176 * 1 = 0.176ms
+time of client's Reshare_value = 0 * n
+time of client's SecureAdd = 1- * n
+time of client's SecureConstMul = 0 * n
+time of client's SingleCheck_C = 1+ * n
+time of client's SecureMul = 2+ * n
+
+time of Coordinator's Getsstag_sat_u = 1 * 1
+time of Coordinator's Reshare_tag = 0
+time of Coordinator's SingleCheck_S = 0
+time of Coordinator's UpdateSys_u = 1
+time of Coordinator's Updatesstag_sta_u_tu = 0
+time of Coordinator's Secret_Share_tag = 1-
+time of Coordinator's Mergesort = 1
+time of Coordinator's Select_Client = 10
+
+64b:
+time of client's Secret_sharing_C = 184
+time of client's Reshare_value = 0 * n
+time of client's SecureAdd = 1- * n
+time of client's SecureConstMul = 0 * n
+time of client's SingleCheck_C = 1+ * n
+time of client's SecureMul = 2+ * n
+
+time of Coordinator's Getsstag_sat_u = 1 * 1
+time of Coordinator's Reshare_tag = 0
+time of Coordinator's SingleCheck_S = 0
+time of Coordinator's UpdateSys_u = 1
+time of Coordinator's Updatesstag_sta_u_tu = 0
+time of Coordinator's Secret_Share_tag = 1-
+time of Coordinator's Mergesort = 1
+time of Coordinator's Select_Client = 10
+
+
+time:
+8b: Client: [159+20,159+20*19], Coordinator: [1+1*20+24*50, 1+1*20+24*190]
+16b: Client: [171+22,171+22*29], Coordinator: [1+1*20+26*50, 1+1*20+26*190]
+32b: Client: [178+25.5,178+25.5*29], Coordinator: [1+1*20+28*50, 1+1*20+28*190]
+64b: Client: [186+27.5,186+27.5*29], Coordinator: [1+1*20+29.5*50, 1+1*20+29.5*190]
+
+com：
+8b: Client: [128+296,128+296*19], Coordinator: [64*20+16*10+608*50, 64*20+16*10+608*190] bits
